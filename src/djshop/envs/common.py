@@ -47,6 +47,8 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
 
     'djshop.auths.users',
+
+    'djshop.apps.catalog',
 ]
 
 MIDDLEWARE = [
